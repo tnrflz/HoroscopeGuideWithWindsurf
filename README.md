@@ -1,4 +1,4 @@
-# Horoscope Guide – Windsurf ve Flutter ile Hazırlandı 🌠
+# Horoscope Guide – Windsurf and Flutter 🌠
 
 This is a simple horoscope guide application created using the **Windsurf editor** and **Flutter** in approximately **1 minute**.
 
